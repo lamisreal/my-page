@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/my-page/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/my-page/static/js/main.a7d5984b.chunk.js",
-    "main.js.map": "/my-page/static/js/main.a7d5984b.chunk.js.map",
-    "runtime-main.js": "/my-page/static/js/runtime-main.9ba9cfa2.js",
-    "runtime-main.js.map": "/my-page/static/js/runtime-main.9ba9cfa2.js.map",
-    "static/js/2.2df39a4f.chunk.js": "/my-page/static/js/2.2df39a4f.chunk.js",
-    "static/js/2.2df39a4f.chunk.js.map": "/my-page/static/js/2.2df39a4f.chunk.js.map",
-    "static/js/3.6274abdb.chunk.js": "/my-page/static/js/3.6274abdb.chunk.js",
-    "static/js/3.6274abdb.chunk.js.map": "/my-page/static/js/3.6274abdb.chunk.js.map",
-    "index.html": "/my-page/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/my-page/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2df39a4f.chunk.js.LICENSE.txt": "/my-page/static/js/2.2df39a4f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-page/static/media/logo.6ce24c58.svg"
+    "main.css": "/lamisreal.github.io/static/css/main.75e361bb.chunk.css",
+    "main.js": "/lamisreal.github.io/static/js/main.d8d52885.chunk.js",
+    "main.js.map": "/lamisreal.github.io/static/js/main.d8d52885.chunk.js.map",
+    "runtime-main.js": "/lamisreal.github.io/static/js/runtime-main.3ba9f085.js",
+    "runtime-main.js.map": "/lamisreal.github.io/static/js/runtime-main.3ba9f085.js.map",
+    "static/css/2.ccc71f02.chunk.css": "/lamisreal.github.io/static/css/2.ccc71f02.chunk.css",
+    "static/js/2.11a25cd4.chunk.js": "/lamisreal.github.io/static/js/2.11a25cd4.chunk.js",
+    "static/js/2.11a25cd4.chunk.js.map": "/lamisreal.github.io/static/js/2.11a25cd4.chunk.js.map",
+    "static/js/3.864f8b3b.chunk.js": "/lamisreal.github.io/static/js/3.864f8b3b.chunk.js",
+    "static/js/3.864f8b3b.chunk.js.map": "/lamisreal.github.io/static/js/3.864f8b3b.chunk.js.map",
+    "index.html": "/lamisreal.github.io/index.html",
+    "static/css/2.ccc71f02.chunk.css.map": "/lamisreal.github.io/static/css/2.ccc71f02.chunk.css.map",
+    "static/css/main.75e361bb.chunk.css.map": "/lamisreal.github.io/static/css/main.75e361bb.chunk.css.map",
+    "static/js/2.11a25cd4.chunk.js.LICENSE.txt": "/lamisreal.github.io/static/js/2.11a25cd4.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/lamisreal.github.io/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/lamisreal.07b2b4e9.jpeg": "/lamisreal.github.io/static/media/lamisreal.07b2b4e9.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ba9cfa2.js",
-    "static/js/2.2df39a4f.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a7d5984b.chunk.js"
+    "static/js/runtime-main.3ba9f085.js",
+    "static/css/2.ccc71f02.chunk.css",
+    "static/js/2.11a25cd4.chunk.js",
+    "static/css/main.75e361bb.chunk.css",
+    "static/js/main.d8d52885.chunk.js"
   ]
 }
