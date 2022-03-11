@@ -18,6 +18,8 @@ Deleted the `yarn.lock` file and removed `node_modules` after updating the @type
 
 `npm i @types/react@latest --save-dev`
 
+`yarn add --dev @types/react`
+
 ## Available Scripts
 
 In the project directory, you can run:
